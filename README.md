@@ -10,9 +10,10 @@
 <br/>
 
 **Reach out to me:**  
+
 <a href="https://www.facebook.com/aakash.decosta">
 <img align="left" alt="Aakash Facebook" width="22px" src="https://user-images.githubusercontent.com/49367575/229062278-bcacbe0e-54aa-4e1b-89c7-ba7698d77566.svg" />
-</a>
+</a> 
 <a href="https://twitter.com/aakash_decosta">
   <img align="left" alt="Aakash Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
