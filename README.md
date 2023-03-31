@@ -18,7 +18,6 @@
 ![git](https://user-images.githubusercontent.com/49367575/229067876-c7854799-a25a-4586-83aa-092fd73119f1.svg)
 ![javascript](https://user-images.githubusercontent.com/49367575/229068282-a21a9d51-a4d2-4ca1-a86c-b60ae92a44c3.svg)
 
-<br/>
 
 **Reach out to me:**  
 
