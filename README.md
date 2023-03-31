@@ -20,9 +20,10 @@
 <a href="https://www.linkedin.com/in/aakash-decosta-b67700163/">
   <img align="left" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   
-<br />
+<br/>
+<br/>
 
-Thanks for visiting
+**Thanks for visiting**
 
 <!--
 **Light1810/Light1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
