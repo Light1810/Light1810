@@ -6,6 +6,7 @@
 
 **languages and tools:**  
 
+<img align="left" width="22px" src="https://user-images.githubusercontent.com/49367575/229065647-22d6ff84-8cd1-41db-8189-936051c8ddd8.svg" />
 
 <br/>
 
